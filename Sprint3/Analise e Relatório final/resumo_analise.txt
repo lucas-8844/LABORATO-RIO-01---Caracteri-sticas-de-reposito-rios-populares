@@ -1,0 +1,20 @@
+=== RESULTADOS DA ANÁLISE ===
+
+Total de repositórios: 1000
+Mediana da idade (dias): 3087.0
+Mediana PRs aceitas: 739.0
+Mediana releases: 40.0
+Mediana dias desde atualização: 0.0
+Mediana razão issues fechadas: 0.876693907701289
+
+Top 10 linguagens:
+Python: 200
+TypeScript: 158
+JavaScript: 117
+nan: 95
+Go: 76
+Rust: 54
+Java: 47
+C++: 46
+C: 25
+Jupyter Notebook: 23
